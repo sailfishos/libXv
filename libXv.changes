@@ -1,0 +1,28 @@
+* Mon Jun 13 2011 Liu, Xinyun <xinyun.liu@intel.com> - 1.0.6
+- Updated to 1.0.6
+
+* Thu Jun 24 2010 Li Peng <peng.li@intel.com> - 1.0.5
+- Add %doc for man pages
+
+* Wed Mar 24 2010 Arjan van de Ven <arjan@linux.intel.com> - 1.0.5
+- fix .pc file to do xext correctly
+
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 1.0.5
+- Updated with latest spectacle
+- Include YAML file in source rpm
+
+* Fri Dec 11 2009 Li Peng <peng.li@intel.com> 1.0.5
+- libXv 1.0.5
+
+* Thu Dec 18 2008 Arjan van de Ven <arjan@linux.intel.com> 1.0.4
+- Fix buildrequires
+
+* Tue Dec 16 2008 Anas Nashif <anas.nashif@intel.com> 1.0.4
+- Update spec file using latest spec-builder
+
+* Tue Dec 16 2008 Anas Nashif <anas.nashif@intel.com> 1.0.4
+- Update spec file using latest spec-builder
+
+* Wed Dec 10 2008 Arjan van de Ven <arjan@linux.intel.com> 1.0.3
+- Updated to version 1.0.4
+
