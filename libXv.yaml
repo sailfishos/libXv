@@ -1,7 +1,7 @@
 Name: libXv
 Summary: X.Org X11 libXv runtime library
 Description: library for the X Video (Xv) extension to the X Window System
-Version: 1.0.6
+Version: 1.0.7
 Release: 1
 Group: System/Libraries
 License: MIT

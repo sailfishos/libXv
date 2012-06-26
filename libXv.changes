@@ -1,3 +1,6 @@
+* Tue Jun 26 2012 Marko Saukko <sage@merproject.org> - 1.0.7
+- Fixes MER#370: update libXv to 1.0.7
+
 * Mon Jun 13 2011 Liu, Xinyun <xinyun.liu@intel.com> - 1.0.6
 - Updated to 1.0.6
 
